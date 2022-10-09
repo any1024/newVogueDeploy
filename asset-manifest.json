@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2d0d58d7.css",
+    "main.js": "./static/js/main.30145a6f.js",
+    "static/js/27.686fa55b.chunk.js": "./static/js/27.686fa55b.chunk.js",
+    "static/media/margiela8.jpeg": "./static/media/margiela8.4a5672f9f7049c6d1750.jpeg",
+    "static/media/margiela6.jpeg": "./static/media/margiela6.4d374cce8fc45f0f3f14.jpeg",
+    "static/media/margiela9.jpeg": "./static/media/margiela9.0abdb4a6392c41b7e9d5.jpeg",
+    "static/media/margiela4.jpeg": "./static/media/margiela4.9af68d98e43776e86faa.jpeg",
+    "static/media/margiela3.jpeg": "./static/media/margiela3.7d6bdd0803b395b5dba6.jpeg",
+    "static/media/margiela12.jpeg": "./static/media/margiela12.20458c83f5a94fe8f99b.jpeg",
+    "static/media/margiela11.jpeg": "./static/media/margiela11.abf48852f790be9e82e1.jpeg",
+    "static/media/margiela10.jpeg": "./static/media/margiela10.f8838ca4989f2380793d.jpeg",
+    "static/media/margiela1.jpeg": "./static/media/margiela1.ab440692506cc6858c2e.jpeg",
+    "static/media/margiela2.jpeg": "./static/media/margiela2.544332b024eefbe9f515.jpeg",
+    "static/media/margiela5.jpeg": "./static/media/margiela5.c40f76079ea239b20340.jpeg",
+    "static/media/margiela7.jpeg": "./static/media/margiela7.4fc7a14b931a4c058fa0.jpeg",
+    "index.html": "./index.html"
+  },
+  "entrypoints": [
+    "static/css/main.2d0d58d7.css",
+    "static/js/main.30145a6f.js"
+  ]
+}
